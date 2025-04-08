@@ -11,8 +11,21 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "fastify": "^5.2.2"
+    "@neondatabase/serverless": "^0.10.4",
+    "fastify": "^5.2.2",
+    "postgres": "^3.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpthimt/basic-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jpthimt/basic-node/issues"
+  },
+  "homepage": "https://github.com/jpthimt/basic-node#readme",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
   }
 }
